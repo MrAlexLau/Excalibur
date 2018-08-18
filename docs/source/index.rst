@@ -23,7 +23,7 @@ as little as you need!
 
 Excalibur is an open source project licensed under the 2-clause BSD license (this means you can 
 use it in commercial projects!). It's free and always will be. We welcome any feedback or contributions! 
-If you make something with Excalbur, please `let us know <https://groups.google.com/forum/#!forum/excaliburjs>`_ 
+If you make something with Excalibur, please `let us know <https://groups.google.com/forum/#!forum/excaliburjs>`_ 
 so we can feature you in our online gallery.
 
 .. toctree::
